@@ -1,0 +1,99 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Name>crmIknow</Name>
+    <ProjectGuid>{cd823cec-5410-4657-9c3b-352ba844aa13}</ProjectGuid>
+    <RootNamespace>
+    </RootNamespace>
+    <OutputType>Library</OutputType>
+    <ProjectTypeGuids>{A0786B88-2ADB-4C21-ABE8-AA2D79766269}</ProjectTypeGuids>
+    <SaveServerSettingsInUserFile>false</SaveServerSettingsInUserFile>
+    <Runtime>PHP</Runtime>
+    <RuntimeVersion>7.1</RuntimeVersion>
+    <EnvName>Custom</EnvName>
+    <PHPDevHostName>localhost</PHPDevHostName>
+    <PHPDevAutoPort>true</PHPDevAutoPort>
+    <CustomServerUrl>http://127.0.0.1:8080/crmIknow/</CustomServerUrl>
+    <CustomXdebugPort>9000</CustomXdebugPort>
+    <PublishEvent>None</PublishEvent>
+    <DebugMappingMethod>Automatic</DebugMappingMethod>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <IncludeDebugInformation>true</IncludeDebugInformation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <IncludeDebugInformation>false</IncludeDebugInformation>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="assets\bootstrap\css\bootstrap-docs.css" />
+    <Compile Include="assets\bootstrap\css\bootstrap-theme.css" />
+    <Compile Include="assets\bootstrap\css\bootstrap-theme.css.map" />
+    <Compile Include="assets\bootstrap\css\bootstrap-theme.min.css" />
+    <Compile Include="assets\bootstrap\css\bootstrap.css" />
+    <Compile Include="assets\bootstrap\css\bootstrap.css.map" />
+    <Compile Include="assets\bootstrap\css\bootstrap.min.css" />
+    <Compile Include="assets\bootstrap\fonts\glyphicons-halflings-regular.eot" />
+    <Compile Include="assets\bootstrap\fonts\glyphicons-halflings-regular.svg" />
+    <Compile Include="assets\bootstrap\fonts\glyphicons-halflings-regular.ttf" />
+    <Compile Include="assets\bootstrap\fonts\glyphicons-halflings-regular.woff" />
+    <Compile Include="assets\bootstrap\js\bootstrap.js" />
+    <Compile Include="assets\bootstrap\js\bootstrap.min.js" />
+    <Compile Include="assets\jquery.min.js" />
+    <Compile Include="assets\oocss.css" />
+    <Compile Include="Connections\conn.php" />
+    <Compile Include="iknow-json-table.php" />
+    <Compile Include="iknow_js-goal.php" />
+    <Compile Include="inc\inc_business_view.php" />
+    <Compile Include="inc\inc_cateInsert_insertSQL.php" />
+    <Compile Include="inc\inc_head.php" />
+    <Compile Include="inc\inc_nav.php" />
+    <Compile Include="inc\inc_newsList_table.php" />
+    <Compile Include="Templates\template.dwt.php" />
+    <Compile Include="iknow-export.php" />
+    <Compile Include="_mmServerScripts\MMHTTPDB.php" />
+    <Compile Include="_mmServerScripts\mysql.php" />
+    <Compile Include="iknow.php" />
+    <Compile Include="iknow_detail.php" />
+    <Compile Include="iknow_insert.php" />
+    <Compile Include="iknow_update.php" />
+    <Compile Include="Untitled-1.html" />
+    <Compile Include="Untitled-2.php" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App\" />
+    <Folder Include="App\Tpl\" />
+    <Folder Include="App\Tpl\Business\" />
+    <Folder Include="assets\bootstrap\css" />
+    <Folder Include="assets\bootstrap\fonts" />
+    <Folder Include="assets\bootstrap\js" />
+    <Folder Include="assets\bootstrap" />
+    <Folder Include="assets" />
+    <Folder Include="Connections" />
+    <Folder Include="inc" />
+    <Folder Include="json\" />
+    <Folder Include="Templates" />
+    <Folder Include="Uploads\" />
+    <Folder Include="_mmServerScripts\_notes" />
+    <Folder Include="_mmServerScripts" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App\Tpl\Business\add.html" />
+    <Content Include="App\Tpl\Business\advance.html" />
+    <Content Include="App\Tpl\Business\analytics.html" />
+    <Content Include="App\Tpl\Business\assigndialog.html" />
+    <Content Include="App\Tpl\Business\edit.html" />
+    <Content Include="App\Tpl\Business\index.html" />
+    <Content Include="App\Tpl\Business\listdialog.html" />
+    <Content Include="App\Tpl\Business\view.html" />
+    <Content Include="json\791727.js" />
+    <Content Include="json\791727.json" />
+    <Content Include="json\788737.js" />
+    <Content Include="json\789729.js" />
+    <Content Include="json\789729.json" />
+    <Content Include="json\789707.json" />
+    <Content Include="json\789707.js" />
+    <Content Include="json\788737.json" />
+    <Content Include="json\791726.js" />
+    <Content Include="json\791726.json" />
+  </ItemGroup>
+</Project>
