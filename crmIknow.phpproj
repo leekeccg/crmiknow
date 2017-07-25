@@ -43,6 +43,7 @@
     <Compile Include="Connections\conn.php" />
     <Compile Include="iknow-json-table.php" />
     <Compile Include="iknow_js-goal.php" />
+    <Compile Include="iknow_search.php" />
     <Compile Include="inc\inc_business_view.php" />
     <Compile Include="inc\inc_cateInsert_insertSQL.php" />
     <Compile Include="inc\inc_head.php" />
