@@ -19,7 +19,7 @@
                         <li><a href="index.php?m=business" target="_blank">Crm</a></li>
                         <li><a href="../git_test073_helper/cateList.php" target="_blank">Test</a></li>
                     </ul>
-                    <ul class="nav navbar-nav navbar-right">
+                    <!--<ul class="nav navbar-nav navbar-right">
                         <li><a href="#">Link</a></li>
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <span class="caret"></span></a>
@@ -31,7 +31,7 @@
                                 <li><a href="#">Separated link</a></li>
                             </ul>
                         </li>
-                    </ul>
+                    </ul>-->
                 </div>
                 <!-- /.navbar-collapse -->
             </div>

@@ -110,9 +110,14 @@ $title="Leeke" ?>
             </table>
             <input type="hidden" name="MM_update" value="form1" />
             <input type="hidden" name="id" value="<?php echo $row_Recordset1['id']; ?>" />
-            <a class="btn btn-primary" target="_blank" href="http://127.0.0.1:8080/crmTest/index.php?m=customer&a=add">add crm</a>
+            <input value="<?php echo htmlentities($row_Recordset1['title'], ENT_COMPAT, 'utf-8'); ?>" type="text" class="form-control" />
+            <a class="btn btn-primary" target="_blank" href="index.php?m=customer&a=add">add crm</a>
+            <a class="btn btn-primary" href="index.php?m=customer" target="_blank">CRM</a>
+            <a href="iknow_json_file.php?categoryid=<?php echo $row_Recordset1['categoryid']; ?>" class="btn btn-primary" target="_blank">json</a>
             <a class="btn btn-primary" href="iknow-json-table.php?iknow_id=<?php echo $row_Recordset1['categoryid']; ?>">table</a>
             <a class="btn btn-primary" href="iknow-export.php?iknow_id=<?php echo $row_Recordset1['categoryid']; ?>&customer_id=<?php echo $row_Recordset1['customer_id']; ?>" target="_blank">Export</a>
+            <a class="btn btn-primary" href="https://iknow.jp/custom/courses/<?php echo $row_Recordset1['categoryid']; ?>#!/" target="_blank">iknow</a>
+            <a class="btn btn-primary" href="https://iknow.jp/custom/courses/<?php echo $row_Recordset1['categoryid']; ?>/items" target="_blank">Item</a>
         </form>
         <p>&nbsp;</p>
         <!-- InstanceEndEditable -->

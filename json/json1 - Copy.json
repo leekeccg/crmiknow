@@ -1,0 +1,92 @@
+﻿{
+  "items": [
+    {
+      "id": 35182,
+      "cue": {
+        "type": "text",
+        "content": {
+          "text": "context"
+        },
+        "related": {
+          "language": "en",
+          "part_of_speech": "Noun",
+          "position": 1,
+          "sentences": [
+            {
+              "id": 12901,
+              "language": "en",
+              "difficulty": 1478,
+              "text": "Seeing something in a different <b>context</b> than the accustomed one can be surprising.",
+              "item_id": 35182
+            },
+            {
+              "id": 9909,
+              "language": "en",
+              "difficulty": 1655,
+              "text": "The documentary provides historical <b>context</b> about the Civil War.",
+              "item_id": 35182,
+              "translations": [
+                {
+                  "id": 1348488,
+                  "language": "en",
+                  "difficulty": 41710,
+                  "text": "そのドキュメンタリーでは南北戦争の歴史的背景が説明されている。"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "response": {
+        "type": "meaning",
+        "content": { "text": "set of facts or circumstances that surround a situation or event" },
+        "related": { "language": "en" }
+      }
+    },
+    {
+      "id": 35183,
+      "cue": {
+        "type": "text",
+        "content": {
+          "text": "conventional"
+        },
+        "related": {
+          "language": "en",
+          "part_of_speech": "Adjective",
+          "position": 2,
+          "sentences": [
+            {
+              "id": 12902,
+              "language": "en",
+              "difficulty": 1142,
+              "text": "He works in a very <b>conventional</b> work environment.",
+              "item_id": 35183
+            },
+            {
+              "id": 1606734,
+              "language": "en",
+              "difficulty": 1587,
+              "text": "The number sign is the <b>conventional</b> symbol for labeling something measured in pounds.",
+              "image": "http://i.istockimg.com/file_thumbview_approve/48265454/2/stock-photo-48265454-old-black-telephone.jpg",
+              "stock-photo-48265454-old-black-telephone_260x260.jpg\",": null,
+              "item_id": 35183,
+              "translations": [
+                {
+                  "id": 1013837,
+                  "language": "en",
+                  "difficulty": 262,
+                  "text": "usual"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "response": {
+        "type": "meaning",
+        "content": { "text": "customary; of, sanctioned by, or growing out of custom or usage" },
+        "related": { "language": "en" }
+      }
+    }
+  ]
+}

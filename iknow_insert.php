@@ -76,32 +76,44 @@ if ((isset($_POST["MM_insert"])) && ($_POST["MM_insert"] == "form1")) {
 <div class="container"><!-- InstanceBeginEditable name="EditRegion1" -->
   <h1><?php echo $title;?></h1>
   <form method="post" name="form1" action="<?php echo $editFormAction; ?>">
-    <table align="center">
-      <tr valign="baseline">
-        <td nowrap align="right">Id:</td>
-        <td><input type="text" name="id" value="" size="32"></td>
-      </tr>
-      <tr valign="baseline">
-        <td nowrap align="right">Content1:</td>
-        <td><input type="text" name="content1" value="" size="32"></td>
-      </tr>
-      <tr valign="baseline">
-        <td nowrap align="right">Content2:</td>
-        <td><input type="text" name="content2" value="" size="32"></td>
-      </tr>
-      <tr valign="baseline">
-        <td nowrap align="right">Title:</td>
-        <td><input type="text" name="title" value="" size="32"></td>
-      </tr>
-      <tr valign="baseline">
-        <td nowrap align="right">Categoryid:</td>
-        <td><input type="text" name="categoryid" value="" size="32"></td>
-      </tr>
-      <tr valign="baseline">
-        <td nowrap align="right">&nbsp;</td>
-        <td><input type="submit" value="插入记录"></td>
-      </tr>
-    </table>
+      <table class="table table-bordered table-hover table-striped">
+          <tr valign="baseline" class="none">
+              <td nowrap align="right">Id:</td>
+              <td>
+                  <input type="text" class="form-control" name="id" value="" size="32" />
+              </td>
+          </tr>
+          <tr valign="baseline" class="none">
+              <td nowrap align="right">Content1:</td>
+              <td>
+                  <input type="text" class="form-control" name="content1" value="" size="32" />
+              </td>
+          </tr>
+          <tr valign="baseline" class="none">
+              <td nowrap align="right">Content2:</td>
+              <td>
+                  <input type="text" class="form-control" name="content2" value="" size="32" />
+              </td>
+          </tr>
+          <tr valign="baseline" class="">
+              <td nowrap align="right">Title:</td>
+              <td>
+                  <input type="text" class="form-control" name="title" value="" size="32" />
+              </td>
+          </tr>
+          <tr valign="baseline" class="">
+              <td nowrap align="right">Categoryid:</td>
+              <td>
+                  <input type="text" class="form-control" name="categoryid" value="" size="32" />
+              </td>
+          </tr>
+          <tr valign="baseline" class="">
+              <td nowrap align="right">&nbsp;</td>
+              <td>
+                  <input type="submit" value="插入记录" />
+              </td>
+          </tr>
+      </table>
     <input type="hidden" name="MM_insert" value="form1">
   </form>
   <p>&nbsp;</p>

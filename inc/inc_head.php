@@ -22,7 +22,7 @@ $cid = "0";
 if (isset($_GET['cid'])) {
     $cid = $_GET['cid'];
 }
-$title = "";
+//$title = "";
 if (isset($_GET['title'])) {
     $title = $_GET['title'];
 }

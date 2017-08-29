@@ -1,0 +1,93 @@
+ Volume in drive C is OS
+ Volume Serial Number is 444F-6CFB
+
+ Directory of C:\Users\leeke\a
+
+01/08/2017  11:40 AM    <DIR>          .
+01/08/2017  11:40 AM    <DIR>          ..
+01/08/2017  11:34 AM            45,721 005 - Suspension Bridge-2-1.mp3
+01/08/2017  11:34 AM            96,409 005 - Suspension Bridge-2-2.mp3
+01/08/2017  11:34 AM            79,897 005 - Suspension Bridge-2-3.mp3
+01/08/2017  11:34 AM            50,713 005 - Suspension Bridge-2-4.mp3
+01/08/2017  11:34 AM            47,641 005 - Suspension Bridge-2-5.mp3
+01/08/2017  11:34 AM            61,081 005 - Suspension Bridge-2-6.mp3
+01/08/2017  11:34 AM            49,945 005 - Suspension Bridge-2-7.mp3
+01/08/2017  10:49 AM               795 005 - Suspension Bridge-2.cue
+31/07/2017  11:15 PM           424,327 005 - Suspension Bridge-2.mp3
+01/08/2017  11:36 AM            93,729 006 - Out of Sight, Out of Mind-2-1.mp3
+01/08/2017  11:36 AM            94,497 006 - Out of Sight, Out of Mind-2-2.mp3
+01/08/2017  11:36 AM            66,849 006 - Out of Sight, Out of Mind-2-3.mp3
+01/08/2017  11:36 AM           107,169 006 - Out of Sight, Out of Mind-2-4.mp3
+01/08/2017  11:36 AM           112,161 006 - Out of Sight, Out of Mind-2-5.mp3
+01/08/2017  11:36 AM           101,793 006 - Out of Sight, Out of Mind-2-6.mp3
+01/08/2017  10:49 AM               945 006 - Out of Sight, Out of Mind-2.cue
+31/07/2017  11:15 PM           570,255 006 - Out of Sight, Out of Mind-2.mp3
+01/08/2017  11:38 AM            92,953 007 - The Eatwell Plate-2-1.mp3
+01/08/2017  11:38 AM            92,953 007 - The Eatwell Plate-2-2.mp3
+01/08/2017  11:38 AM           106,009 007 - The Eatwell Plate-2-3.mp3
+01/08/2017  11:38 AM            59,929 007 - The Eatwell Plate-2-4.mp3
+01/08/2017  11:38 AM           103,705 007 - The Eatwell Plate-2-5.mp3
+01/08/2017  11:38 AM            66,457 007 - The Eatwell Plate-2-6.mp3
+01/08/2017  10:49 AM               661 007 - The Eatwell Plate-2.cue
+31/07/2017  11:15 PM           516,103 007 - The Eatwell Plate-2.mp3
+01/08/2017  11:13 AM            87,192 008 - World Income Distribution-2-1.mp3
+01/08/2017  11:13 AM            62,616 008 - World Income Distribution-2-2.mp3
+01/08/2017  11:13 AM            85,272 008 - World Income Distribution-2-3.mp3
+01/08/2017  11:13 AM            39,960 008 - World Income Distribution-2-4.mp3
+01/08/2017  11:13 AM            95,256 008 - World Income Distribution-2-5.mp3
+01/08/2017  11:13 AM            46,488 008 - World Income Distribution-2-6.mp3
+01/08/2017  11:13 AM            95,256 008 - World Income Distribution-2-7.mp3
+01/08/2017  11:13 AM            89,112 008 - World Income Distribution-2-8.mp3
+01/08/2017  10:49 AM               878 008 - World Income Distribution-2.cue
+31/07/2017  11:15 PM           592,911 008 - World Income Distribution-2.mp3
+01/08/2017  11:13 AM            91,025 009 - The Changing Earth-2-1.mp3
+01/08/2017  11:13 AM           123,665 009 - The Changing Earth-2-2.mp3
+01/08/2017  11:13 AM            50,321 009 - The Changing Earth-2-3.mp3
+01/08/2017  11:13 AM            40,721 009 - The Changing Earth-2-4.mp3
+01/08/2017  11:13 AM            75,281 009 - The Changing Earth-2-5.mp3
+01/08/2017  11:13 AM            41,873 009 - The Changing Earth-2-6.mp3
+01/08/2017  11:13 AM            68,753 009 - The Changing Earth-2-7.mp3
+01/08/2017  11:13 AM            82,577 009 - The Changing Earth-2-8.mp3
+01/08/2017  11:12 AM               864 009 - The Changing Earth-2.cue
+31/07/2017  11:15 PM           566,024 009 - The Changing Earth-2.mp3
+01/08/2017  11:20 AM           105,639 010 - Comparison of Fundamental Needs-2-1.mp3
+01/08/2017  11:20 AM            81,447 010 - Comparison of Fundamental Needs-2-2.mp3
+01/08/2017  11:20 AM            61,479 010 - Comparison of Fundamental Needs-2-3.mp3
+01/08/2017  11:20 AM            61,095 010 - Comparison of Fundamental Needs-2-4.mp3
+01/08/2017  11:20 AM            43,431 010 - Comparison of Fundamental Needs-2-6.mp3
+01/08/2017  11:20 AM            79,143 010 - Comparison of Fundamental Needs-2-7.mp3
+01/08/2017  11:20 AM           124,071 010 - Comparison of Fundamental Needs-2-8.mp3
+01/08/2017  10:49 AM               756 010 - Comparison of Fundamental Needs-2.cue
+31/07/2017  11:15 PM           556,821 010 - Comparison of Fundamental Needs-2.mp3
+01/08/2017  11:22 AM            67,608 011 - Classic Pyramids-2-1.mp3
+01/08/2017  11:22 AM           105,240 011 - Classic Pyramids-2-2.mp3
+01/08/2017  11:22 AM            77,208 011 - Classic Pyramids-2-3.mp3
+01/08/2017  11:22 AM            81,048 011 - Classic Pyramids-2-4.mp3
+01/08/2017  11:22 AM            70,296 011 - Classic Pyramids-2-5.mp3
+01/08/2017  11:22 AM            29,592 011 - Classic Pyramids-2-6.mp3
+01/08/2017  11:22 AM            33,816 011 - Classic Pyramids-2-7.mp3
+01/08/2017  11:22 AM            83,352 011 - Classic Pyramids-2-8.mp3
+01/08/2017  10:49 AM               525 011 - Classic Pyramids-2.cue
+31/07/2017  11:15 PM           539,910 011 - Classic Pyramids-2.mp3
+01/08/2017  11:25 AM            59,552 012 - Formation of Oxbow Lakes-2-1.mp3
+01/08/2017  11:25 AM            67,232 012 - Formation of Oxbow Lakes-2-2.mp3
+01/08/2017  11:25 AM            29,600 012 - Formation of Oxbow Lakes-2-3.mp3
+01/08/2017  11:25 AM            97,184 012 - Formation of Oxbow Lakes-2-4.mp3
+01/08/2017  11:25 AM            74,528 012 - Formation of Oxbow Lakes-2-5.mp3
+01/08/2017  11:25 AM            58,784 012 - Formation of Oxbow Lakes-2-6.mp3
+01/08/2017  11:25 AM            69,536 012 - Formation of Oxbow Lakes-2-7.mp3
+01/08/2017  11:25 AM               819 012 - Formation of Oxbow Lakes-2.cue
+31/07/2017  11:15 PM           449,294 012 - Formation of Oxbow Lakes-2.mp3
+01/08/2017  11:26 AM            59,542 013 - National Flags-2-1.mp3
+01/08/2017  11:26 AM            47,638 013 - National Flags-2-2.mp3
+01/08/2017  11:26 AM            98,326 013 - National Flags-2-3.mp3
+01/08/2017  11:26 AM            52,246 013 - National Flags-2-4.mp3
+01/08/2017  11:26 AM            67,606 013 - National Flags-2-5.mp3
+01/08/2017  11:26 AM            59,542 013 - National Flags-2-6.mp3
+01/08/2017  11:26 AM            49,174 013 - National Flags-2-7.mp3
+01/08/2017  11:26 AM            66,070 013 - National Flags-2-8.mp3
+01/08/2017  11:26 AM               933 013 - National Flags-2.cue
+31/07/2017  11:15 PM           496,900 013 - National Flags-2.mp3
+01/08/2017  11:40 AM                 0 dir.txt
+              84 File(s)      9,485,725 bytes
+               2 Dir(s)  457,574,862,848 bytes free

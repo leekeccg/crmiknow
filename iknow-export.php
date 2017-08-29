@@ -1,4 +1,4 @@
-<?php $title="Leeke" ?>
+<?php $title=$_GET['title'] ?>
 <!DOCTYPE html>
 <html lang="en">
 <!-- InstanceBegin template="/Templates/template.dwt.php" codeOutsideHTMLIsLocked="false" -->
@@ -14,6 +14,7 @@
     <!-- inc_head -->
     <?php include("inc/inc_head.php"); ?>
     <script src="json/<?php echo $_GET['iknow_id']?>.js"></script>
+
     <!-- InstanceBeginEditable name="head" -->
     <!-- InstanceEndEditable -->
 </head>
@@ -58,12 +59,13 @@ function read(key, val) {
 }
 </script>
 <?php
-//$key='k == "item_id" || k=="item_id_type_cue_text"';
-$key='k == "id" || k=="id_uri_cue_type_content_text"';
+$key='k == "items_id" || k=="items_id_uri_cue_type_content_text" || k=="items_id_uri_cue_response_type_content_text"';
+//$key='k == "id" || k=="id_uri_cue_type_content_text"';
 //$key='k != ""';
 ?>
 <script>
     var iknow_id=<?php echo $_GET['iknow_id']?>;
+    var customer_id=0;
     var customer_id=<?php echo $_GET['customer_id']?>;
 var values = [];
 read(null, obj)
@@ -73,7 +75,7 @@ var $tr = $('<tr>');
         if (<?php echo $key;?>) {
             $th = $('<th>');
     if(k=="id"){k="item_id"}
-        if(k=="id_uri_cue_type_content_text"){k="item_id_type_cue_text"}
+        if(k=="items_id_uri_cue_type_content_text"){k="name"}
             $th.text(k);
             $tr.append($th);
         }

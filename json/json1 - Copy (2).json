@@ -1,0 +1,117 @@
+﻿{
+  "items": [
+    {
+      "id": 257960,
+      "uri": "http://iknow.jp/items/257960",
+      "cue": {
+        "type": "text",
+        "content": {
+          "text": "行く",
+          "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00393A.mp3"
+        },
+        "related": {
+          "language": "ja",
+          "part_of_speech": "Verb",
+          "transliterations": [
+            {
+              "type": "Hira",
+              "text": "いく"
+            },
+            {
+              "type": "Hrkt",
+              "text": "いく"
+            },
+            {
+              "type": "Latn",
+              "text": "iku"
+            }
+          ],
+          "position": 1,
+          "sentences": [
+            {
+              "id": 247015,
+              "language": "ja",
+              "uri": "http://iknow.jp/sentences/247015",
+              "difficulty": 16276,
+              "text": "日曜日は図書館に<b>行きます</b>。",
+              "image": "https://assets3.iknow.jp/assets/legacy/images/02/3835135.jpg",
+              "square_image": "https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzM4MzUxMzUuanBn/3835135_260x260.jpg",
+              "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00393A.mp3",
+              "item_id": 257960,
+              "transliterations": [
+                {
+                  "type": "Hira",
+                  "text": "にちようび は としょかん に <b>いきます</b>。"
+                },
+                {
+                  "type": "Hrkt",
+                  "text": "にちようび は としょかん に <b>いきます</b>。"
+                },
+                {
+                  "type": "Latn",
+                  "text": "nichiyoubi ha toshokan ni <b>ikimasu</b>."
+                },
+                {
+                  "type": "Jpan",
+                  "text": "日曜日 は 図書館 に 行きます 。"
+                }
+              ],
+              "translations": [
+                {
+                  "id": 247016,
+                  "language": "en",
+                  "uri": "http://iknow.jp/sentences/247016",
+                  "difficulty": 293,
+                  "text": "I go to the library on Sundays."
+                }
+              ]
+            },
+            {
+              "id": 249227,
+              "language": "ja",
+              "uri": "http://iknow.jp/sentences/249227",
+              "difficulty": 17689,
+              "text": "私は夏休みにプールに<b>行った</b>。",
+              "image": "https://assets3.iknow.jp/assets/legacy/images/02/4059172.jpg",
+              "square_image": "https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMzLmlrbm93LmpwL2Fzc2V0cy9sZWdhY3kvaW1hZ2VzLzAyLzQwNTkxNzIuanBn/4059172_260x260.jpg",
+              "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07970A.mp3",
+              "item_id": 257960,
+              "transliterations": [
+                {
+                  "type": "Hira",
+                  "text": "わたし は なつやすみ に ぷーる に <b>いった</b>。"
+                },
+                {
+                  "type": "Hrkt",
+                  "text": "わたし は なつやすみ に プール に <b>いった</b>。"
+                },
+                {
+                  "type": "Latn",
+                  "text": "watashi ha natsuyasumi ni pu-ru ni <b>itta</b>."
+                },
+                {
+                  "type": "Jpan",
+                  "text": "私 は 夏休み に プール に 行った 。"
+                }
+              ],
+              "translations": [
+                {
+                  "id": 249228,
+                  "language": "en",
+                  "uri": "http://iknow.jp/sentences/249228",
+                  "difficulty": 730,
+                  "text": "I went to the pool during summer vacation."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "response": {
+        "type": "meaning",
+        "content": { "text": "go" },
+        "related": { "language": "en" }
+      }
+    }
+  ]
+}

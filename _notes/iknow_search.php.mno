@@ -1,4 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<info>
-	<infoitem key="UD_Recordset1" value="name:business_id;datatype:int,name:name;datatype:string,name:origin;datatype:string,name:customer_id;datatype:int,name:creator_role_id;datatype:int,name:owner_role_id;datatype:int,name:total_amount;datatype:int,name:subtotal_val;datatype:real,name:discount_price;datatype:real,name:sales_price;datatype:real,name:due_date;datatype:int,name:create_time;datatype:int,name:update_time;datatype:int,name:update_role_id;datatype:int,name:status_id;datatype:int,name:total_price;datatype:real,name:nextstep;datatype:string,name:nextstep_time;datatype:int,name:is_deleted;datatype:int,name:delete_role_id;datatype:int,name:delete_time;datatype:int,name:contacts_id;datatype:int,name:item_id_type_cue_text;datatype:string,name:item_id;datatype:string,name:iknow_id;datatype:string" />
-</info>
