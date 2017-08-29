@@ -1,4 +1,4 @@
-<?php $title="Leeke" ?>
+<?php $title="iknow_jpn_word" ?>
 <!DOCTYPE html>
 <html lang="en">
 <!-- InstanceBegin template="/Templates/template.dwt.php" codeOutsideHTMLIsLocked="false" -->
@@ -35,12 +35,12 @@
             <div class="mbl">
                 <a class="btn btn-primary" href="https://iknow.jp/custom/courses/<?php echo $_GET['iknow_id']; ?>/items" target="_blank">item</a>
                 <a class="btn btn-primary" id="json_button" href="javascript:void(0)">JSON</a>
-                <a class="btn btn-primary" id="json_button2" href="javascript:void(0)">P</a>
+                <a class="btn btn-primary" id="datatable" href="javascript:void(0)">datatable</a>
+                <a class="btn btn-primary" id="" href="?iknow_id=<?php echo $_GET['iknow_id']; ?>&page=sentence">Sentence</a>
             </div>
             <table class="table table-bordered table-hover table-striped" id="example">
                 <thead>
-                    <tr>
-                    </tr>
+                    <tr></tr>
                 </thead>
                 <tbody></tbody>
             </table>
@@ -49,7 +49,16 @@
         <script>
             var getIknow =<?php echo $_GET['iknow_id']; ?>;
         </script>
-        <script src="javascript/iknow/iknow_jpn_word.js"></script>
+        <?php
+        $getPage="word";
+        if(isset($_GET['page'])){
+            $getPage=$_GET['page'];
+        }
+        if($getPage=="word"){$js_file="iknow_jpn_word";}
+        if($getPage=="sentence"){$js_file="iknow_jpn_sentence";}
+        ?>
+        
+        <script src="javascript/iknow/<?php echo $js_file; ?>.js"></script>
         <!-- InstanceEndEditable -->
     </div>
     <!-- Include all compiled plugins (below), or include individual files as needed -->

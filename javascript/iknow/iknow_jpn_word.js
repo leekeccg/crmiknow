@@ -1,11 +1,14 @@
 ﻿//$("#json_button").click(function () {
 $.getJSON('json/' + getIknow, function (data) {
     var strVar = "";
+    strVar += "<th>sort<\/th>";
+    strVar += "<th>item_id<\/th>";
     strVar += "<th>Sound<\/th>";
     strVar += "<th>Text<\/th>";
     strVar += "<th>transliteration<\/th>";
     strVar += "<th>part_of_speech<\/th>";
     strVar += "<th>response<\/th>";
+    strVar += "<th>iknow_id<\/th>";
     $(".list table thead tr").append(strVar);
 
     for (var i = 0; i < data.items.length; i++) { //items是字段
@@ -26,13 +29,14 @@ $.getJSON('json/' + getIknow, function (data) {
             var small_text = data.items[i].cue.related.sentences[j].text;
             text0 = text0 + '<div class="strip">' + small_id + '. ' + small_text + '</div>'
         }
-        $(".list table tbody").append('<tr><td>' + sound + '</td><td>' + text + '</td><td>' + transliteration + '</td><td>' + part_of_speech + '</td><td>' + response + '</td></tr>');
+        //+ sound + '</td><td>'+ sound + '</td><td>'
+        $(".list table tbody").append('<tr><td>' + i + '</td><td>' + id + '</td><td>'+ sound + '</td><td>' + text + '</td><td>' + transliteration + '</td><td>' + part_of_speech + '</td><td>' + response + '</td><td>' + getIknow + '</td></tr>');
         //$('.list table tbody').append("<tr><td class='bold'><div>"+i+'. '+text+"<div><div>"+transcription+"</div><span class='none'>"+part_of_speech+"</span></td><td id='item_"+id+"'></td><td>"+text0+"</td></tr>");
     }
 });
 
 //});
-$("#json_button3").click(function () {
+$("#datatable").click(function () {
     $('#example').DataTable({
         "pageLength": 50
     });

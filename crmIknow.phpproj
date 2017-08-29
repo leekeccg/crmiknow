@@ -92,6 +92,7 @@
     <Content Include="App\Tpl\Business\view.html" />
     <Content Include="App\Tpl\Product\edit.html" />
     <Content Include="App\Tpl\Product\index.html" />
+    <Content Include="javascript\iknow\iknow_jpn_sentence.js" />
     <Content Include="json\791727.js" />
     <Content Include="json\791727.json" />
     <Content Include="json\788737.js" />
