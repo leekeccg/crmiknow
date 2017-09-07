@@ -36,7 +36,7 @@ $query_rs = "SELECT * FROM iknow";
 $rs = mysql_query($query_rs, $conn) or die(mysql_error());
 $row_rs = mysql_fetch_assoc($rs);
 $totalRows_rs = mysql_num_rows($rs);
-$title="Leeke" ?>
+$title="iknow.php" ?>
 <!DOCTYPE html>
 <html lang="en">
 <!-- InstanceBegin template="/Templates/template.dwt.php" codeOutsideHTMLIsLocked="false" -->
@@ -80,6 +80,7 @@ $title="Leeke" ?>
                     </a>
                     <a class="" href="iknow-export.php?iknow_id=<?php echo $row_rs['categoryid']; ?>&customer_id=<?php echo $row_rs['id']; ?>&title=<?php echo $row_rs['title']; ?>" target="_blank">Export</a>
                     <a class="" href="iknow_jpn_word.php?iknow_id=<?php echo $row_rs['categoryid']; ?>" target="_blank">JP JSON</a>
+                    <a class="" href="iknow_eng_word.php?iknow_id=<?php echo $row_rs['categoryid']; ?>" target="_blank">ENG JSON</a>
                 </td>
                 <td>
                     <?php echo $row_rs['categoryid']; ?>&nbsp;

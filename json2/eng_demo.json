@@ -1,0 +1,301 @@
+{
+  "items": [
+    {
+      "id": 3902,
+      "uri": "http://iknow.jp/items/3902",
+      "cue": {
+        "type": "text",
+        "content": {
+          "text": "residence",
+          "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/619vbrbtctcarc.mp3"
+        },
+        "related": {
+          "language": "en",
+          "part_of_speech": "Noun",
+          "transcription": "?r?z?d?ns",
+          "position": 1,
+          "sentences": [
+            {
+              "id": 1886632,
+              "language": "en",
+              "uri": "http://iknow.jp/sentences/1886632",
+              "difficulty": 1244,
+              "text": "Please be sure to bring proof of \u003cb\u003eresidence\u003c/b\u003e along with your application.",
+              "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/4u4g5t9o8.jpeg",
+              "square_image": "https://transcode2.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi80dTRnNXQ5bzguanBlZw==/4u4g5t9o8_260x260.jpeg",
+              "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/638b0g65g8.mp3",
+              "item_id": 3902,
+              "translations": [
+                {
+                  "id": 1886631,
+                  "language": "ja",
+                  "uri": "http://iknow.jp/sentences/1886631",
+                  "difficulty": 10153,
+                  "text": "申請書と一緒に、居住証明書も忘れずにお持ちください。",
+                  "transliterations": [
+                    {
+                      "type": "Hira",
+                      "text": "しんせい しょ と いっしょ に 、 きょじゅう しょうめい しょ も わすれず に お もち ください 。"
+                    },
+                    {
+                      "type": "Hrkt",
+                      "text": "しんせい しょ と いっしょ に 、 きょじゅう しょうめい しょ も わすれず に お もち ください 。"
+                    },
+                    {
+                      "type": "Latn",
+                      "text": "shinsei sho to issho ni , kyojuu shoumei sho mo wasurezu ni o mochi kudasai ."
+                    },
+                    {
+                      "type": "Jpan",
+                      "text": "申請 書 と 一緒 に 、 居住 証明 書 も 忘れず に お 持ち ください 。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 2318183,
+              "language": "en",
+              "uri": "http://iknow.jp/sentences/2318183",
+              "difficulty": 773,
+              "text": "He works in Chicago, but his main \u003cb\u003eresidence\u003c/b\u003e is in New York.",
+              "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/016v8r6tclafec.mp3",
+              "item_id": 3902,
+              "translations": [
+                {
+                  "id": 2318182,
+                  "language": "ja",
+                  "uri": "http://iknow.jp/sentences/2318182",
+                  "difficulty": 9211,
+                  "text": "彼はシカゴで働いているが、居住はニューヨークだ。",
+                  "transliterations": [
+                    {
+                      "type": "Hira",
+                      "text": "かれ は しかご で はたらいている が 、 きょじゅう は にゅーよーく だ 。"
+                    },
+                    {
+                      "type": "Hrkt",
+                      "text": "かれ は シカゴ で はたらいている が 、 きょじゅう は ニューヨーク だ 。"
+                    },
+                    {
+                      "type": "Latn",
+                      "text": "kare ha shikago de hataraiteiru ga , kyojuu ha nyu-yo-ku da ."
+                    },
+                    {
+                      "type": "Jpan",
+                      "text": "彼 は シカゴ で 働いている が 、 居住 は ニューヨーク だ 。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 2318185,
+              "language": "en",
+              "uri": "http://iknow.jp/sentences/2318185",
+              "difficulty": 591,
+              "text": "No one has been at this \u003cb\u003eresidence\u003c/b\u003e for over a month.",
+              "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/816v9rbtcgidr0.mp3",
+              "item_id": 3902,
+              "translations": [
+                {
+                  "id": 2318184,
+                  "language": "ja",
+                  "uri": "http://iknow.jp/sentences/2318184",
+                  "difficulty": 8269,
+                  "text": "誰もこの住まいに1ヵ月以上住んだことがない。",
+                  "transliterations": [
+                    {
+                      "type": "Hira",
+                      "text": "だれ も この すまい に 1 かげつ いじょう すんだ こと が ない 。"
+                    },
+                    {
+                      "type": "Hrkt",
+                      "text": "だれ も この すまい に 1 カゲツ いじょう すんだ こと が ない 。"
+                    },
+                    {
+                      "type": "Latn",
+                      "text": "dare mo kono sumai ni 1 kagetsu ijou sunda koto ga nai ."
+                    },
+                    {
+                      "type": "Jpan",
+                      "text": "誰 も この 住まい に 1 ヵ月 以上 住んだ こと が ない 。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "response": {
+        "type": "meaning",
+        "content": { "text": "住まい、居住" },
+        "related": {
+          "language": "ja",
+          "transliterations": [
+            {
+              "type": "Hira",
+              "text": "すまい、きょじゅう"
+            },
+            {
+              "type": "Hrkt",
+              "text": "すまい、きょじゅう"
+            },
+            {
+              "type": "Latn",
+              "text": "sumai,kyojuu"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 33268,
+      "uri": "http://iknow.jp/items/33268",
+      "cue": {
+        "type": "text",
+        "content": {
+          "text": "suburbs",
+          "sound": "https://assets0.iknow.jp/assets/legacy/juken/audio/juken_q_1018.mp3"
+        },
+        "related": {
+          "language": "en",
+          "part_of_speech": "Noun",
+          "position": 2,
+          "sentences": [
+            {
+              "id": 8536,
+              "language": "en",
+              "uri": "http://iknow.jp/sentences/8536",
+              "difficulty": 836,
+              "text": "We lived in the city for a while, but we just relocated to the \u003cb\u003esuburbs\u003c/b\u003e.",
+              "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/222lbk4l14.jpeg",
+              "square_image": "https://transcode1.iknow.jp/t/aHR0cHM6Ly9hc3NldHMwLmlrbm93LmpwL2Fzc2V0cy91c2Vycy80ZTQ4NTAwMDIxZDYwMTM1YzAyZjA2ZDU5NGJhYjE4Yi8yMjJsYms0bDE0LmpwZWc=/222lbk4l14_260x260.jpeg",
+              "sound": "https://assets0.iknow.jp/assets/legacy/toeic1500/audio/t_adv2_s2_49.mp3",
+              "item_id": 33268,
+              "translations": [
+                {
+                  "id": 26987,
+                  "language": "ja",
+                  "uri": "http://iknow.jp/sentences/26987",
+                  "text": "しばらくの間は都心に住んでいたが、郊外に引っ越したところだ。",
+                  "transliterations": [
+                    {
+                      "type": "Hira",
+                      "text": "しばらく の ま は としん に すん でいた が 、 こうがい に ひっこした ところ だ 。"
+                    },
+                    {
+                      "type": "Hrkt",
+                      "text": "しばらく の ま は としん に すん でいた が 、 こうがい に ひっこした ところ だ 。"
+                    },
+                    {
+                      "type": "Latn",
+                      "text": "shibaraku no ma ha toshin ni sun deita ga , kougai ni hikkoshita tokoro da ."
+                    },
+                    {
+                      "type": "Jpan",
+                      "text": "しばらく の 間 は 都心 に 住んでいた が 、 郊外 に 引っ越した ところ だ 。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 16836,
+              "language": "en",
+              "uri": "http://iknow.jp/sentences/16836",
+              "difficulty": 1150,
+              "text": "They decided to relocate their head office to the \u003cb\u003esuburbs\u003c/b\u003e to give them more room.",
+              "sound": "https://assets0.iknow.jp/assets/legacy/extratoeic/audio/extratoeic_s4_1271.mp3",
+              "item_id": 33268,
+              "translations": [
+                {
+                  "id": 34692,
+                  "language": "ja",
+                  "uri": "http://iknow.jp/sentences/34692",
+                  "text": "彼らは、広いスペースを確保するため、本社を郊外へ移転することに決めた。",
+                  "transliterations": [
+                    {
+                      "type": "Hira",
+                      "text": "かれら は 、 ひろい すぺーす を かくほ する ため 、 ほんしゃ を こうがい へ いてん する こと に きめた 。"
+                    },
+                    {
+                      "type": "Hrkt",
+                      "text": "かれら は 、 ひろい スペース を かくほ する ため 、 ほんしゃ を こうがい へ いてん する こと に きめた 。"
+                    },
+                    {
+                      "type": "Latn",
+                      "text": "karera ha , hiroi supe-su wo kakuho suru tame , honsha wo kougai he iten suru koto ni kimeta ."
+                    },
+                    {
+                      "type": "Jpan",
+                      "text": "彼ら は 、 広い スペース を 確保 する ため 、 本社 を 郊外 へ 移転 する こと に 決めた 。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 2318187,
+              "language": "en",
+              "uri": "http://iknow.jp/sentences/2318187",
+              "difficulty": 961,
+              "text": "Most of our employees live in the \u003cb\u003esuburbs\u003c/b\u003e and ride the train into the city.",
+              "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/c11v1rftdfr3es.mp3",
+              "item_id": 33268,
+              "translations": [
+                {
+                  "id": 2318186,
+                  "language": "ja",
+                  "uri": "http://iknow.jp/sentences/2318186",
+                  "difficulty": 12979,
+                  "text": "わが社の社員のほとんどは郊外に住んでいて、電車で都市に出てくる。",
+                  "transliterations": [
+                    {
+                      "type": "Hira",
+                      "text": "わが しゃ の しゃいん の ほとんど は こうがい に すん でいて 、 でんしゃ で とし に でてくる 。"
+                    },
+                    {
+                      "type": "Hrkt",
+                      "text": "わが しゃ の しゃいん の ほとんど は こうがい に すん でいて 、 でんしゃ で とし に でてくる 。"
+                    },
+                    {
+                      "type": "Latn",
+                      "text": "waga sha no shain no hotondo ha kougai ni sun deite , densha de toshi ni detekuru ."
+                    },
+                    {
+                      "type": "Jpan",
+                      "text": "わが 社 の 社員 の ほとんど は 郊外 に 住んでいて 、 電車 で 都市 に 出てくる 。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "response": {
+        "type": "meaning",
+        "content": { "text": "郊外、都市周辺部" },
+        "related": {
+          "language": "ja",
+          "transliterations": [
+            {
+              "type": "Hira",
+              "text": "こうがい、とししゅうへんぶ"
+            },
+            {
+              "type": "Hrkt",
+              "text": "こうがい、とししゅうへんぶ"
+            },
+            {
+              "type": "Latn",
+              "text": "kougai,toshishuuhenbu"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
