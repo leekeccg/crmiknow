@@ -1,17 +1,11 @@
 <?php require_once('Connections/conn.php'); ?>
 <?php
-
-$colname_rs = "-1";
-if (isset($_GET['pid'])) {
-  $colname_rs = $_GET['pid'];
-}
 mysql_select_db($database_conn, $conn);
-$query_rs = sprintf("SELECT * FROM iknow WHERE pid = %s order by sortNum asc", GetSQLValueString($colname_rs, "int"));
+$query_rs = "SELECT * FROM iknow where status = 'successful'";
 $rs = mysql_query($query_rs, $conn) or die(mysql_error());
 $row_rs = mysql_fetch_assoc($rs);
 $totalRows_rs = mysql_num_rows($rs);
-
-$title="iknow.php" ?>
+$title="iknow_successful.php" ?>
 <!DOCTYPE html>
 <html lang="en">
 <!-- InstanceBegin template="/Templates/template.dwt.php" codeOutsideHTMLIsLocked="false" -->
@@ -37,7 +31,6 @@ $title="iknow.php" ?>
         <h1>
             <?php echo $title;?>
         </h1>
-        <a class="btn btn-success mbm" href="iknow_successful.php" target="">Successful</a>
         <table class="table table-bordered table-hover table-striped">
             <tr>
                 <td>id</td>

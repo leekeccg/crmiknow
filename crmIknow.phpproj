@@ -271,6 +271,7 @@
     <Compile Include="Base\ThinkPHP.php" />
     <Compile Include="Connections\conn.php" />
     <Compile Include="iknow-json-table.php" />
+    <Compile Include="iknow_categories.php" />
     <Compile Include="iknow_jpn_sentence.php" />
     <Compile Include="iknow_eng_word.php" />
     <Compile Include="iknow_jpn_word.php" />

@@ -60,6 +60,6 @@ $("#json_button2").click(function () {
 //});
 $("#datatable").click(function () {
     $('#example').DataTable({
-        "pageLength": 20
+        "pageLength": 200
     });
 });
